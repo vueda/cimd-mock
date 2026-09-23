@@ -1,0 +1,16 @@
+{
+  "client_id": "https://seu-dominio-publico/cimd/cliente-teste.json",
+  "client_name": "Cliente de teste do ERP",
+  "redirect_uris": [
+    "https://seu-dominio-publico/cimd/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp.read offline_access"
+}
