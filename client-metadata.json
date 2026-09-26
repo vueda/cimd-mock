@@ -1,5 +1,5 @@
 {
-  "client_id": "https://seu-dominio-publico/cimd/cliente-teste.json",
+  "client_id": "https://vueda.github.io/cimd-mock/client-metadata.json",
   "client_name": "Cliente de teste do ERP",
   "redirect_uris": [
     "https://seu-dominio-publico/cimd/callback"
