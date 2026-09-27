@@ -2,7 +2,7 @@
   "client_id": "https://vueda.github.io/cimd-mock/client-metadata.json",
   "client_name": "Cliente de teste do ERP",
   "redirect_uris": [
-    "https://seu-dominio-publico/cimd/callback"
+    "http://localhost:8080/teste"
   ],
   "grant_types": [
     "authorization_code",
